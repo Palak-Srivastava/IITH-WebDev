@@ -1,5 +1,5 @@
 # WorkChat- A chat room with extra stuffs! 
----
+
 ## 
 
 
@@ -8,7 +8,7 @@ WorkChat is a chatroom  in which users can have host different virtual rooms (i.
 
 
 ## Features
----
+
 
 - Create new virtual rooms
 - Create To-DO list
@@ -18,7 +18,7 @@ WorkChat is a chatroom  in which users can have host different virtual rooms (i.
 
 
 ## Deployment
----
+
 
 >Run the following commands in Terminal >>
 
@@ -33,7 +33,7 @@ python application.py
 >Goto localhost:5000/
 
 # Tools
----
+
 #### Frontend
 
 - HTML 
@@ -46,7 +46,7 @@ python application.py
 
 
 ## How to use:
----
+
 - Firstly, just input an username and login.
 >Wanna have different virtual rooms for your diverse discussions?
 >Yes ! Head over to ``` Groups ``` 
@@ -58,7 +58,7 @@ python application.py
 
 
 # Team Members
---- 
+ 
 - Vishwesh Keshri    <https://github.com/Vishu54>
 - Palak Srivastava   <https://github.com/Palak-Srivastava>
 - Yashraj Prakash    <https://github.com/YashrajPrakash>
