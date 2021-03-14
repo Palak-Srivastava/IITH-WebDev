@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f6f5f5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container-fluid main {
+    height: 90vh;
+}
+
+/* Styles chat boxes */
+.container-chat {
+    border-radius: 20px;
+    background-color: #02075d;
+    padding: 10px;
+    margin: 12px 0;
+    /* width:fit-content;   */
+}
+
+.time-left {
+    float: inline-start;
+    text-align: right;
+    color: #999;
+}
+
+/* Controls chat input  field*/
+/* #messageInput {
+    position: fixed;
+    bottom: 15px;
+    width: 90vw;
+} */
+
+@media (min-width: 568px) {
+    #messageInput {
+        position: fixed;
+        bottom: 15px;
+        width: 40vw;
+    }
+}
+
+/* Controls chat display area*/
+#messagesList {
+    padding-bottom: 10vh;
+}
+
+/* Hides scroll x in messages area */
+#mainContent {
+    overflow: auto;
+    height: 100%;
+}
