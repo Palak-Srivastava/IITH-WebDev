@@ -27,7 +27,7 @@ git clone https://github.com/Vishu54/IITH-WebDev.git
 cd IITH-WebDev
 virtualenv env
 source env/bin/activate
-pip install -r requirement.txt
+pip install -r requirements.txt
 python application.py
 ```
 >Goto localhost:5000/
